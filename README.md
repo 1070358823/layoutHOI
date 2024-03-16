@@ -1,5 +1,5 @@
 # layoutHOI
-![layout gennerated images for HOI](/pipline01.png)
+![layout gennerated images for HOI](/pipeline01.png)
 layout generate（GLIGEN）
 ```
 python ./layoutHOI/layout-generation-models/GLIGEN-master/image_scprits/generate_multi.py
