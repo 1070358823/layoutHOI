@@ -1,5 +1,5 @@
 # layoutHOI
-layout gennerated images for HOI
+layout generated images for HOI
 ![layout gennerated images for HOI](/pipeline01.png)
 layout generate（GLIGEN）
 ```
